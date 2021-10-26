@@ -27,7 +27,10 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
+    "@pnotify/mobile": "^5.2.0",
     "axios": "^0.24.0",
-    "handlebars": "^4.7.7"
+    "basiclightbox": "^5.0.4",
+    "handlebars": "^4.7.7",
+    "vanilla-back-to-top": "^7.2.1"
   }
 }
